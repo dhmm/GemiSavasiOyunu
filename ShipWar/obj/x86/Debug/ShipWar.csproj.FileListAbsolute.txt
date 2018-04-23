@@ -1,0 +1,11 @@
+C:\PROJECTS\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Form1.resources
+C:\PROJECTS\Minesweeper\Minesweeper\obj\x86\Debug\ShipWar.Properties.Resources.resources
+C:\PROJECTS\Minesweeper\Minesweeper\obj\x86\Debug\ShipWar.csproj.GenerateResource.Cache
+C:\PROJECTS\ShipWar\ShipWar\bin\Debug\ShipWar.exe
+C:\PROJECTS\ShipWar\ShipWar\bin\Debug\ShipWar.pdb
+C:\PROJECTS\ShipWar\ShipWar\obj\x86\Debug\ShipWar.FormGame.resources
+C:\PROJECTS\ShipWar\ShipWar\obj\x86\Debug\ShipWar.Library.GraphicalObject.SeaTileControl.resources
+C:\PROJECTS\ShipWar\ShipWar\obj\x86\Debug\ShipWar.Properties.Resources.resources
+C:\PROJECTS\ShipWar\ShipWar\obj\x86\Debug\ShipWar.csproj.GenerateResource.Cache
+C:\PROJECTS\ShipWar\ShipWar\obj\x86\Debug\ShipWar.exe
+C:\PROJECTS\ShipWar\ShipWar\obj\x86\Debug\ShipWar.pdb

@@ -1,0 +1,7 @@
+C:\PROJECTS\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Form1.resources
+C:\PROJECTS\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.Properties.Resources.resources
+C:\PROJECTS\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.csproj.GenerateResource.Cache
+C:\PROJECTS\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\PROJECTS\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\PROJECTS\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.exe
+C:\PROJECTS\Minesweeper\Minesweeper\obj\x86\Debug\Minesweeper.pdb
